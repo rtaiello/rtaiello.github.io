@@ -1,7 +1,7 @@
 ## Publications
 ### Privacy Preserving Image Registration
 Authors: <strong>Riccardo Taiello</strong>, Melek Önen, Olivier Humbert, Marco Lorenzi<br>
-Conference: <strong>Accepted at [MICCAI2022]</strong>(https://conferences.miccai.org/2022/en/)<br>
+Conference: <strong>Accepted at [MICCAI2022](https://conferences.miccai.org/2022/en/)</strong><br>
 Paper: [Link](https://arxiv.org/pdf/2205.10120.pdf) <br>
 Code: <i class="fab fa-github"></i> [GitHub](https://github.com/rtaiello/pp_image_registration)
 <details>
