@@ -4,7 +4,7 @@ Authors: <strong>Riccardo Taiello</strong>, Melek Önen, Olivier Humbert, Marco 
 Conference: <strong>[MICCAI2022](https://conferences.miccai.org/2022/en/)</strong><br>
 Paper: [Link](https://arxiv.org/pdf/2205.10120.pdf) <br>
 Code: <i class="fab fa-github"></i> [GitHub](https://github.com/rtaiello/pp_image_registration) <br>
-Video: <i class="fa-youtube-play"></i> [Youtube](https://www.youtube.com/watch?v=bNg9xRER_Uk&ab_channel=RiccardoTaiello)
+Video: <i class="fa fa-youtube-play"></i> [Youtube](https://www.youtube.com/watch?v=bNg9xRER_Uk&ab_channel=RiccardoTaiello)
 <details>
 <summary> Bibtex </summary>
 <div class="tip" markdown="1">
