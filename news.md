@@ -1,5 +1,5 @@
 ## News
-#### [19-09-2022] Presentation at MICCAI 2022 in Singapore
+#### [19-09-2022] Paper accepted at MICCAI 2022!
 Event: <strong>[MICCAI 2022](https://conferences.miccai.org/2022/en/)</strong><br>
 Location: Singapore<br>
 Title: <strong>Privacy Preserving Image Registration </strong><br>
