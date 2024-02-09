@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 title: Riccardo Taiello
-description: Ph.D. student at Inria Sophia Antipolis, Epione group.
+description: Ph.D. student at Inria Sophia Antipolis (Epione group) and EURECOM.
 show_downloads: false
 logo: https://github.com/rtaiello.png?size=420
 github: [metadata]
