@@ -10,3 +10,5 @@ My research interests are Machine Learning and Deep Learning, focusing on Federa
 I started my Ph.D., named <b>Data Structuration and Security in Large-Scale Collaborative Healthcare Data Analysis </b>, in October 2021 under the supervision of [Marco Lorenzi](https://marcolorenzi.github.io/) (Inria Sophia Antipolis, Epione), [Melek Önen](https://www.eurecom.fr/~onen/) (Eurecom Sophia Antipolis), and Professor [Olivier Humbert](https://www.linkedin.com/in/olivier-humbert-b14553173/?originalSubdomain=en) (Antoine Lacassagne Center - TIRO laboratory).
 {% include_relative news.md %}
 {% include_relative pubs.md %}
+{% include_relative articles.md %}
+
